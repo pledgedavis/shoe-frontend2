@@ -1,0 +1,8 @@
+{
+  "name": "shoe-frontend2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "node": "^15.4.0"
+  }
+}
